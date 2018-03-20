@@ -1,0 +1,39 @@
+@font-face {
+  font-family: 'SSStandard';
+  font-style: normal;
+  font-weight: normal;
+  src: url('../fonts/ss-standard.eot');
+  src: url('../fonts/ss-standard.eot?#iefix') format('embedded-opentype'), url('../fonts/ss-standard.woff') format('woff'), url('../fonts/ss-standard.ttf') format('truetype'), url('../fonts/ss-standard.svg#SSStandard') format('svg');
+}
+@font-face {
+  font-family: 'SSBlock';
+  font-style: normal;
+  font-weight: normal;
+  src: url('../fonts/ss-symbolicons-block.eot');
+  src: url('../fonts/ss-symbolicons-block.eot?#iefix') format('embedded-opentype'), url('../fonts/ss-symbolicons-block.woff') format('woff'), url('../fonts/ss-symbolicons-block.ttf') format('truetype'), url('../fonts/ss-symbolicons-block.svg#SSStandard') format('svg');
+}
+@font-face {
+  font-family: 'SSSocial';
+  font-style: normal;
+  font-weight: normal;
+  src: url('../fonts/ss-social-regular.eot');
+  src: url('../fonts/ss-social-regular.eot?#iefix') format('embedded-opentype'), url('../fonts/ss-social-regular.woff') format('woff'), url('../fonts/ss-social-regular.ttf') format('truetype'), url('../fonts/ss-social-regular.svg#SSStandard') format('svg');
+}
+@font-face {
+  font-family: 'Pacifico';
+  font-style: normal;
+  font-weight: normal;
+  src: url('../fonts/Pacifico-Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Crete';
+  font-style: normal;
+  font-weight: normal;
+  src: url('../fonts/CreteRound-Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'CreteItalic';
+  font-style: normal;
+  font-weight: normal;
+  src: url('../fonts/CreteRound-Italic.ttf') format('truetype');
+}

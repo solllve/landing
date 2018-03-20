@@ -1,0 +1,28 @@
+{
+  "name": "solllve",
+  "version": "0.1.0",
+  "homepage": "https://solllve.github.io/landing/",
+  "private": false,
+  "dependencies": {
+    "ajv": "^6.3.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-less-watcher": "^1.1.4",
+    "react-mailchimp-subscribe": "^2.0.1",
+    "react-scripts": "1.1.1"
+  },
+  "scripts": {
+    "watch-less": "react-less-watcher -d src/less",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -b master -d build",
+    "start": "react-scripts start&npm run watch-less",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "gh-pages": "^1.1.0",
+    "install-peers": "^1.0.2",
+    "svg-react-loader": "^0.4.5"
+  }
+}
